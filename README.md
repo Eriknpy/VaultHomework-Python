@@ -82,7 +82,7 @@ There are two recommended ways to run this project.
     ```
 
 <!-- Python unittest Test -->
-### Python unittest Test
+### Python unittest
 
 In total, there are 11 unit tests.
 <p align="right">(<a href="#vault-homework-in-python">back to top</a>)</p>
