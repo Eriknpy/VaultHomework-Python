@@ -39,7 +39,8 @@ Each approach solves the algorithmical part in 3 steps. For better understanding
   <a><img src="https://i.imgur.com/LwSPDSU.png" alt="Logo" ></a>
 </div>
 <p align="center">
-    <strong>Flow diagram</strong> </a>
+    <strong>Flow diagram</strong><br>
+    (click to zoom)</a>
 
 <!-- GETTING STARTED -->
 ## Getting Started
