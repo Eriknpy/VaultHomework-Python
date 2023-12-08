@@ -14,6 +14,7 @@ def main(args):
         print(f"Correct passphrases in total:  {total_passphrases_general}")
         print(f"\n{ValidationType.PYTHON.name}")
         print(f"Correct passphrases in total:  {total_passphrases_python}\n")
+
     except FileNotFoundError:
         print(f"File not found: {file_path}")
     except IOError as ex:

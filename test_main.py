@@ -1,5 +1,6 @@
 import unittest
 from unittest.mock import mock_open, patch
+
 from main import (read_file_lines,
                   ValidationType,
                   is_valid_passphrase,
