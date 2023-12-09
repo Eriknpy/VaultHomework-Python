@@ -34,7 +34,8 @@ I used Functional Programming this time. There are two different approaches to c
 * General: The least language-specific approach
 * Python specific: Comprehensions
 
-Each approach solves the algorithmical part in 3 steps. For better understanding I created a diagram.
+Multi-stage docker file 1.2gb reduced to 140mb\
+Each approach solves the algorithmic part in 3 steps. For better understanding, I created a diagram.
 <div align="center">
   <a><img src="https://i.imgur.com/LwSPDSU.png" alt="Logo" ></a>
 </div>
@@ -47,8 +48,8 @@ Each approach solves the algorithmical part in 3 steps. For better understanding
 
 There are two recommended ways to run this project.
 * Run the project from your IDE
-* You can also add your input.txt:
-        1. Go to the VaultHomework folder where main.py is located and add your file.
+* You can also add your input.txt:\
+        1. Go to the VaultHomework folder where main.py is located and add your file.\
     2. Specify the file location with CLI:
      ```sh
      dotnet run yourfilename.txt
@@ -81,7 +82,7 @@ There are two recommended ways to run this project.
     python -m coverage html 
     ```
 
-<!-- Python unittest Test -->
+<!-- Python unittest -->
 ### Python unittest
 
 In total, there are 11 unit tests.
