@@ -52,7 +52,7 @@ There are two recommended ways to run this project.
         1. Go to the VaultHomework folder where main.py is located and add your file.\
     2. Specify the file location with CLI:
      ```sh
-     dotnet run yourfilename.txt
+     python main.py yourfilename.txt
      ```
 * Docker container: Navigate to the root folder of the repo where Dockerfile is located.
 1. Build the docker image: 
